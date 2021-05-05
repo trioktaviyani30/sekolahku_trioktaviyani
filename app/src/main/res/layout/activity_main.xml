@@ -108,7 +108,8 @@
                         android:layout_width="189dp"
                         android:layout_height="155dp"
                         android:layout_margin="10dp"
-                        app:cardCornerRadius="20dp" >
+                        app:cardBackgroundColor="#8CA18D"
+                        app:cardCornerRadius="20dp">
 
                         <ImageView
                             android:id="@+id/imageView13"
@@ -137,6 +138,7 @@
                         android:layout_height="155dp"
                         android:layout_margin="10dp"
                         android:layout_weight="1"
+                        app:cardBackgroundColor="#8BBA8D"
                         app:cardCornerRadius="20dp">
 
                         <ImageView
@@ -161,6 +163,7 @@
                         android:layout_height="155dp"
                         android:layout_margin="10dp"
                         android:layout_weight="1"
+                        app:cardBackgroundColor="#8BED8F"
                         app:cardCornerRadius="20dp">
 
                         <ImageView
@@ -192,7 +195,8 @@
                         android:layout_width="189dp"
                         android:layout_height="match_parent"
                         android:layout_margin="10dp"
-                        app:cardCornerRadius="20dp" >
+                        app:cardBackgroundColor="#D359A15C"
+                        app:cardCornerRadius="20dp">
 
                         <ImageView
                             android:id="@+id/imageView14"
@@ -213,7 +217,8 @@
                         android:layout_width="183dp"
                         android:layout_height="155dp"
                         android:layout_margin="10dp"
-                        app:cardCornerRadius="20dp" >
+                        app:cardBackgroundColor="#9CC171"
+                        app:cardCornerRadius="20dp">
 
                         <ImageView
                             android:id="@+id/imageView15"
